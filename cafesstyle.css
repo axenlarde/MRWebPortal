@@ -1,0 +1,45 @@
+html,body
+	{
+	background-image: url("design/orange-stripes_1.jpg");
+	}
+
+.entete
+	{
+	background-color: #ff6437;
+	}
+
+.branchname
+	{
+	background-color: #ff6437;
+	}
+	
+.mainmenu td
+	{
+	background-color: #ff9859;
+	}
+
+.mainmenu td:hover
+	{
+	background-color: #ec3500;
+	}
+
+.forwardlist tr:FIRST-CHILD td, .forwardlist tr:FIRST-CHILD td a
+	{
+	background-color: #ff6437;
+	}
+	
+.forwarddate
+	{
+    background-color: #ff9859;
+	}
+	
+.forwardaction
+	{
+    background-color: #dfa5a2;
+	}
+
+.forwardaction input[type=button]
+	{
+    background-color: #dfa5a2;
+	}
+	

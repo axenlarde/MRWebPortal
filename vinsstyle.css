@@ -1,0 +1,45 @@
+html,body
+	{
+	background-image: url("design/green-stripes_1.jpg");
+	}
+
+.entete
+	{
+	background-color: #008040;
+	}
+
+.branchname
+	{
+	background-color: #008040;
+	}
+	
+.mainmenu td
+	{
+	background-color: #00c161;
+	}
+
+.mainmenu td:hover
+	{
+	background-color: #007138;
+	}
+
+.forwardlist tr:FIRST-CHILD td, .forwardlist tr:FIRST-CHILD td a
+	{
+	background-color: #008040;
+	}
+	
+.forwarddate
+	{
+    background-color: #00d76b;
+	}
+	
+.forwardaction
+	{
+    background-color: #bcccb5;
+	}
+
+.forwardaction input[type=button]
+	{
+    background-color: #bcccb5;
+	}
+	

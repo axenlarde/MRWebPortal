@@ -1,0 +1,45 @@
+html,body
+	{
+	background-image: url("design/red-stripes_1.jpg");
+	}
+
+.entete
+	{
+	background-color: #ff0000;
+	}
+
+.branchname
+	{
+	background-color: #ff0000;
+	}
+	
+.mainmenu td
+	{
+	background-color: #ff9393;
+	}
+
+.mainmenu td:hover
+	{
+	background-color: #e60000;
+	}
+
+.forwardlist tr:FIRST-CHILD td, .forwardlist tr:FIRST-CHILD td a
+	{
+	background-color: #ff0000;
+	}
+	
+.forwarddate
+	{
+    background-color: #ff5555;
+	}
+	
+.forwardaction
+	{
+    background-color: #dfa5a2;
+	}
+
+.forwardaction input[type=button]
+	{
+    background-color: #dfa5a2;
+	}
+	
